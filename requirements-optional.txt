@@ -1,0 +1,8 @@
+# Excel file handling
+openpyxl>=3.0.10
+xlrd>=2.0.1
+
+# Google Sheets API access
+gspread>=5.6.2
+google-auth>=2.6.6
+google-auth-oauthlib>=0.5.2
