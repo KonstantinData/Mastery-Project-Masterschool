@@ -1,0 +1,14 @@
+# python generated files
+__pycache__/
+*.py[oc]
+build/
+dist/
+wheels/
+*.egg-info
+
+# venv
+.venv
+
+# Export folders (local only, not tracked in Git)
+silver_exports/
+gold_exports/
