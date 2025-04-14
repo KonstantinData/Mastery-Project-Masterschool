@@ -75,6 +75,11 @@ https://lakehouse-masteryproject-2025.s3.eu-north-1.amazonaws.com/bronze/public_
 - User-level behavior is aggregated across all tables  
 - Clustering algorithm applied to segment customers  
 - Each cluster is matched with a perk based on its behavior pattern
+  
+### 5. 🎯 Final Deliverable
+- A data-driven strategy that assigns each user to a behavioral segment
+- Each segment receives a perk recommendation grounded in actual usage patterns
+- Results can be presented through a narrative, notebook, or optional Tableau dashboard
 
 ---
 
@@ -120,10 +125,12 @@ __pycache__/
 ## ✅ Project Status
 
 - ✅ Bronze layer loaded and explored  
-- ✅ Silver layer cleaned and exported  
-- ✅ Gold layer cohort filtered  
-- ✅ Feature engineering completed  
-- ⏳ Segmentation and clustering in progress
+- ✅ Silver layer cleaned and column-reduced  
+- ✅ Gold layer filtered by cohort (≥ 7 sessions since Jan 4, 2023)  
+- ✅ Feature engineering completed (e.g., nights, discount rates)  
+- ✅ Silver and gold layers exported (for manual S3 upload)  
+- ⏳ Segmentation and clustering in progress  
+- ⏳ Perk assignment and final presentation pending
 
 ---
 
