@@ -12,3 +12,5 @@ wheels/
 # Export folders (local only, not tracked in Git)
 silver_exports/
 gold_exports/
+*.docx
+
