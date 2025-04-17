@@ -129,8 +129,11 @@ __pycache__/
 - ✅ Gold layer filtered by cohort (≥ 7 sessions since Jan 4, 2023)  
 - ✅ Feature engineering completed (e.g., nights, discount rates)  
 - ✅ Silver and gold layers exported (for manual S3 upload)  
-- ⏳ Segmentation and clustering in progress  
+- ✅ Segmentation and clustering in progress  
 - ⏳ Perk assignment and final presentation pending
+- ⏳ Crafting TravelTide Recommendations
+- ⏳ Using Visuals to Communicate Key Findings
+- ⏳ Project Submission
 
 ---
 
