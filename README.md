@@ -19,7 +19,7 @@ Only perks supported by available data are included.
 - ✅ One night free hotel with flight  
 - ❌ Free hotel meal *(not supported by the available data)*
 
-[Mastery-Project-Notebook](https://github.com/KonstantinData/Mastery-Project-Masterschool/blob/main/mastery-project-masterschool/notebooks/mastery-project-2025.ipynb)
+[Mastery-Project-Notebook](mastery-project-masterschool/notebooks/mastery-project-2025-cleaned.ipynb)
 
 ---
 
