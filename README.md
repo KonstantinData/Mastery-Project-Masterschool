@@ -132,9 +132,9 @@ __pycache__/
 - ✅ Feature engineering completed (e.g., nights, discount rates)  
 - ✅ Silver and gold layers exported (for manual S3 upload)  
 - ✅ Segmentation and clustering in progress  
-- ⏳ Perk assignment and final presentation pending
-- ⏳ Crafting TravelTide Recommendations
-- ⏳ Using Visuals to Communicate Key Findings
+- ✅ Perk assignment and final presentation pending
+- ✅ Crafting TravelTide Recommendations
+- ✅ Using Visuals to Communicate Key Findings
 - ⏳ Project Submission
 
 ---
