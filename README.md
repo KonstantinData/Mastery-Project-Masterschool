@@ -135,7 +135,7 @@ __pycache__/
 - ✅ Perk assignment and final presentation pending
 - ✅ Crafting TravelTide Recommendations
 - ✅ Using Visuals to Communicate Key Findings
-- ⏳ Project Submission
+- ✅ Project Submission
 
 ---
 
