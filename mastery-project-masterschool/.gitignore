@@ -1,20 +1,56 @@
-# Datenordner ignorieren
-mastery-project-masterschool/data/
+# ========== Projektstruktur ==========
+# Ignoriere Datenverzeichnisse
+data/
+datasets/
+*.csv
+*.tsv
+*.parquet
+*.h5
+*.db
+*.sqlite
 
-# Virtuelle Umgebung ignorieren
-.venv/
-
-# Jupyter Notebook Checkpoints ignorieren
+# ========== Jupyter Notebook ==========
+# Ignoriere automatisch generierte Checkpoints
 **/.ipynb_checkpoints/
 
-# Python Cache-Dateien ignorieren
+# ========== Python Umgebung ==========
+# Virtuelle Umgebung
+.venv/
+env/
+venv/
+
+# Bytecode-Dateien & Cache
 __pycache__/
 *.py[cod]
 *.pyo
 
-# Sonstige temporäre Dateien
+# ========== Logs und temporäre Dateien ==========
 *.log
 *.tmp
 *.swp
+*.bak
+*.~
+*.pid
+
+# ========== Betriebssystem / Editor Dateien ==========
 .DS_Store
 Thumbs.db
+.vscode/
+.idea/
+
+# ========== Sonstiges ==========
+# Ergebnisse von Tools wie pytest, coverage, etc.
+htmlcov/
+.tox/
+coverage.xml
+*.cover
+*.py,cover
+.cache/
+nosetests.xml
+test-output/
+
+# ========== Ignore bestimmte Modelle / Outputs ==========
+models/
+outputs/
+checkpoints/
+runs/
