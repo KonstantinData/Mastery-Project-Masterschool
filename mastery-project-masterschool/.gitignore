@@ -1,16 +1,20 @@
-# python generated files
+# Datenordner ignorieren
+mastery-project-masterschool/data/
+
+# Virtuelle Umgebung ignorieren
+.venv/
+
+# Jupyter Notebook Checkpoints ignorieren
+**/.ipynb_checkpoints/
+
+# Python Cache-Dateien ignorieren
 __pycache__/
-*.py[oc]
-build/
-dist/
-wheels/
-*.egg-info
+*.py[cod]
+*.pyo
 
-# venv
-.venv
-
-# Export folders (local only, not tracked in Git)
-silver_exports/
-gold_exports/
-*.docx
-
+# Sonstige temporäre Dateien
+*.log
+*.tmp
+*.swp
+.DS_Store
+Thumbs.db
