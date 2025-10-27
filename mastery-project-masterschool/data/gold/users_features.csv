@@ -1,4 +1,0 @@
-user_id,total_sessions,total_bookings,total_nights,avg_discount_rate,cluster_id,perk
-1,10,5,7,0.2,0,Free checked bag
-2,3,1,0,0.0,1,No cancellation fees
-3,4,2,4,0.5,2,Exclusive discounts
